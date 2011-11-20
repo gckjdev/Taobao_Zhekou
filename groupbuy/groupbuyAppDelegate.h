@@ -32,7 +32,7 @@
 
 #define _THREE20_		1
 #define kAppId			@"481943407"					// To be changed for each project
-#define kMobClickKey	@"4ec5f9f752701577ae000080"		// To be changed for each project
+#define kMobClickKey	@"4ec874935270155933000024"		// To be changed for each project
 
 #define MAKE_FRIEND_PLACEID @"GroupBuy"
 
